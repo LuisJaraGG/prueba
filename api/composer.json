@@ -1,0 +1,16 @@
+{
+	"name": "jgame/bienesraices_fin",
+	"require": {
+		"intervention/image": "^2.7"
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\": "./clases"
+		}
+	},
+	"authors": [
+		{
+			"name": "Juan Morales"
+		}
+	]
+}
